@@ -1,0 +1,43 @@
+Sem 1
+#c programming
+    Getting Started
+        Learn the basics:   https://www.geeksforgeeks.org/c-language-set-1-introduction/
+        Explore More:       https://www.tutorialspoint.com/cprogramming/index.htm
+        Youtube.com:        https://www.youtube.com/watch?v=-CpG3oATGIs
+        
+        
+    Arrays
+        Resources: 
+            https://www.javatpoint.com/c-array(Learn About arrays)
+            https://www.cs.cmu.edu/~rjsimmon/15122-f14/lec/04-arrays.pdf(Array Data Structure)
+            https://www.youtube.com/watch?v=SPuS9UJF1lo (C Arrays)
+            
+        Practice Problems:
+            i.  (Problem1)https://www.codechef.com/problems/LECANDY,(Editorial)https://discuss.codechef.com/t/lecandy-editorial/275
+            ii. (Problem2)https://www.codechef.com/problems/COPS,(Editorial)https://discuss.codechef.com/t/cops-editorial/11264
+            iii.(Problem3)https://www.codechef.com/problems/SALARY,(Editorial)https://discuss.codechef.com/t/salary-editorial/1356
+            
+            
+    Asymptotic Analysis:
+        Resources:
+            https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn (Time Complexity)
+            https://www.youtube.com/watch?v=i1F_Uu0bYCc (Big-O Notation in Theoretical Computer Science)
+            Complexity-Analysis:   https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+        Practice problem: 
+            http://www.iitk.ac.in/esc101/08Jul/lecnotes/practise_sol.pdf(Problem-Set)
+            https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976(Test Your Knowledge)
+            
+    Functions and Pointers
+        Resources: 
+            Getting Started with Functions: https://www.geeksforgeeks.org/functions-in-c/
+            More about Functions:           https://beginnersbook.com/2014/01/c-functions-examples/
+            - An Introduction to Recursion, Part 1-https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+            - An Introduction to Recursion, Part 2-https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-1/
+   
+        Practice Problems:
+            Problem set-1 for Recursion-https://www.geeksforgeeks.org/practice-questions-for-recursion/
+            Problem set-2 for recursion-https://www.geeksforgeeks.org/practice-questions-for-recursion-set-2/
+            
+    An Endless Guide to C Programming:
+            Source: Nptel-C-Programming-course: https://nptel.ac.in/courses/106104128/
+        
