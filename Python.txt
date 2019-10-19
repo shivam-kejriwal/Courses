@@ -1,0 +1,113 @@
+
+
+Python
+
+Blogs-
+
+Installing python
+
+https://wiki.python.org/moin/BeginnersGuide/Download
+https://www.python.org/downloads/
+https://realpython.com/installing-python/
+
+
+https://www.anaconda.com/
+
+Video - https://www.youtube.com/watch?v=LrMOrMb8-3s
+
+Datatypes-
+Blog -https://www.programiz.com/python-programming/variables-datatypes
+Video -https://www.youtube.com/watch?v=6yrsX752CWk
+
+Operators-
+Blog -https://www.geeksforgeeks.org/basic-operators-python/
+Video - https://www.youtube.com/watch?v=v5MR5JnKcZI
+
+If-Else-
+Blog -https://www.datacamp.com/community/tutorials/python-if-elif-else
+Video -https://www.youtube.com/watch?v=AWek49wXGzI
+
+Loops-
+Site-https://www.learnpython.org/en/Loops
+
+Video(hindi)
+For Loop -https://www.youtube.com/watch?v=KBOlvpmtl-o
+While Loop-https://www.youtube.com/watch?v=oYTWPVAEvXs
+
+Video(English)
+For Loop-https://www.youtube.com/watch?v=OnDr4J2UXSA
+While loOp-https://www.youtube.com/watch?v=6TEGxJXLAWQ
+
+
+List Compreshion
+Site-https://www.pythonforbeginners.com/basics/list-comprehensions-in-python
+
+Video(Hindi)
+https://www.youtube.com/watch?v=VdC_g1pmfNc
+
+Video(English)
+https://www.youtube.com/watch?v=AhSvKGTh28Q
+
+Functions
+Site-https://www.learnpython.org/en/Functions
+
+Video(Hindi)
+https://www.youtube.com/watch?v=5xXUXgxlsi8
+
+
+Video(English)
+https://www.youtube.com/watch?v=9Os0o3wzS_I
+
+
+*args and *kwargs
+
+Site-https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3
+
+Video(Hindi)
+
+https://www.youtube.com/watch?v=37EaS1sAeUo
+
+Video(English)
+https://www.youtube.com/watch?v=762mFeD2SlU
+
+Lambda Expression
+Site-https://www.programiz.com/python-programming/anonymous-function
+
+Video(Hindi)
+https://www.youtube.com/watch?v=EZcLZfGXDQY
+
+Video(English)
+https://www.youtube.com/watch?v=Ob9rY6PQMfI
+
+OOPS
+Site - https://www.programiz.com/python-programming/object-oriented-programming
+Site-https://realpython.com/python3-object-oriented-programming/
+
+Video(Hindi)(Playlist)
+https://www.youtube.com/watch?v=fpdwRofNMeQ&list=PLu0W_9lII9ahfRrhFcoB-4lpp9YaBmdCP
+
+Video(English)
+
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+
+Modules and packge
+Site -https://docs.python.org/3/tutorial/modules.html
+
+Video(Hindi)
+
+https://www.youtube.com/watch?v=0SZodbWUsQU
+
+Video(English)
+https://www.youtube.com/watch?v=1RuMJ53CKds
+
+
+Exception handling
+Site- https://www.pythonforbeginners.com/error-handling/exception-handling-in-python
+
+Video(Hindi)
+
+https://www.youtube.com/watch?v=V5DKTVBT6_I
+
+Video(English)
+https://www.youtube.com/watch?v=6SPDvPK38tw
