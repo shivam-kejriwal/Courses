@@ -1,4 +1,6 @@
 Sem 1
+//this is all fun
+
 #c programming
     Getting Started
         Learn the basics:   https://www.geeksforgeeks.org/c-language-set-1-introduction/
